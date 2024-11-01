@@ -1,0 +1,22 @@
+[
+    {
+       "name": "John Doe",
+       "registrationNumber": "123456",
+       "certificateNumber": "CERT-001"
+    },
+    {
+       "name": "Jane Smith",
+       "registrationNumber": "654321",
+       "certificateNumber": "CERT-002"
+    },
+    {
+       "name": "Alex Johnson",
+       "registrationNumber": "789012",
+       "certificateNumber": "CERT-003"
+    },
+    {
+       "name": "Maria Garcia",
+       "registrationNumber": "345678",
+       "certificateNumber": "CERT-004"
+    }
+ ]
